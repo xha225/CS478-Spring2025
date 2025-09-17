@@ -1,4 +1,4 @@
-This is Y, I have added this line from my local console
+This is one change that made from the FeatureBranch1, updated the line by accepting the suggestions.
 # CS478-Spring2025
 X
 This is line is modified from the feature branch UserStory1
